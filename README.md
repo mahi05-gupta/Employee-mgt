@@ -146,6 +146,8 @@ http://localhost:5000
 
 ### Login Page
 - Secure authentication for users.
+- <img width="1904" height="929" alt="image" src="https://github.com/user-attachments/assets/325461a3-9945-4e33-9a0b-0c58ff44091f" />
+
 
 ### Dashboard
 - Displays employee statistics and quick actions.
