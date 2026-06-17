@@ -148,15 +148,26 @@ http://localhost:5000
 - Secure authentication for users.
 - <img width="1904" height="929" alt="image" src="https://github.com/user-attachments/assets/325461a3-9945-4e33-9a0b-0c58ff44091f" />
 
-
 ### Dashboard
 - Displays employee statistics and quick actions.
+<img width="1899" height="994" alt="image" src="https://github.com/user-attachments/assets/56529365-6cb3-4d19-8f0b-bb34fa275c10" />
 
 ### Employee List
 - View and manage all employees.
+<img width="1900" height="1004" alt="image" src="https://github.com/user-attachments/assets/1f25f63c-5744-4403-b817-98b4a75f434f" />
+
+### Add Employee
+- You can add employee
+- <img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/f9615387-60eb-456f-97f2-7fcd687570c2" />
+
+### Settings
+- You can change user name or password
+- <img width="1909" height="985" alt="image" src="https://github.com/user-attachments/assets/405708cc-33a6-407d-a36f-9bdd58d3839a" />
 
 ### Employee Details
 - Detailed information for each employee.
+- <img width="1860" height="838" alt="image" src="https://github.com/user-attachments/assets/76ac463f-6553-4fd4-9230-cb7167c1a2d0" />
+
 
 ## Future Improvements
 
